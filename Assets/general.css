@@ -5,6 +5,8 @@
 footer {
   background-color: black;
   color: white;
-  float: right;
-  padding: 50px;
+  text-align: end;
+  p {
+    padding: 50px;
+  }
 }
