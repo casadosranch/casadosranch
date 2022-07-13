@@ -9,3 +9,8 @@ footer {
   padding: 50px;
   margin: 0;
 }
+
+.mainimg {
+  text-align: center;
+  background-color: brown;
+}
