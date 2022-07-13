@@ -17,10 +17,10 @@ footer {
 
 .logofooter {
   position: absolute;
-  img {
-    width: 150px;
-    height: 150px;
-  }
+}
+.footimg {
+  width: 150px;
+  height: 150px;
 }
 
 /* .mainimg {
