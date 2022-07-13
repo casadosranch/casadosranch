@@ -12,8 +12,6 @@ footer {
   text-align: end;
   padding: 20px 30px;
   margin: 0;
-  bottom: 0;
-  position: absolute;
   width: 100%;
 }
 
@@ -35,6 +33,14 @@ footer {
 
 .somos-familia {
   width: 800px;
+  
+}
+
+.footer-container {
+}
+
+.top-container {
+  position: absolute
 }
 
 /* .mainimg {
