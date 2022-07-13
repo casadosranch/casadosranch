@@ -12,7 +12,7 @@ footer {
   text-align: end;
   padding: 20px 30px;
   margin: 0;
-  img {
+  .logofooter {
     position: absolute;
   }
 }
