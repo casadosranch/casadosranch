@@ -26,11 +26,15 @@ footer {
 }
 
 .familapic {
-  width: 400px;
+  width: 600px;
 }
 
 .center-content {
   text-align: center;
+}
+
+.somos-familia {
+  width: 800px;
 }
 
 /* .mainimg {
