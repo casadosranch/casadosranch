@@ -12,11 +12,15 @@ footer {
   text-align: end;
   padding: 20px 30px;
   margin: 0;
+  bottom: 0;
 }
 
 .logofooter {
   position: absolute;
-
+  img {
+    width: 150px;
+    height: 150px;
+  }
 }
 
 /* .mainimg {
