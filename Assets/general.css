@@ -6,7 +6,6 @@ footer {
   background-color: black;
   color: white;
   text-align: end;
-  p {
-    padding: 50px;
-  }
+  padding: 50px;
+  margin: 0;
 }
