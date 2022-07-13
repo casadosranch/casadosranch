@@ -12,9 +12,10 @@ footer {
   text-align: end;
   padding: 20px 30px;
   margin: 0;
-  .logofooter {
-    position: absolute;
-  }
+}
+
+.logofooter {
+  position: absolute;
 }
 
 .mainimg {
