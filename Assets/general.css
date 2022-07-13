@@ -5,4 +5,6 @@
 footer {
   background-color: black;
   color: white;
+  float: right;
+  padding: 50px;
 }
