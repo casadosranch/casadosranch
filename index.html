@@ -35,10 +35,15 @@
       </div>
     </footer> -->
     <script>
-      var link = document.querySelector('link[rel="import"]');
-      var content = link.import;
+      function supportsImports() {
+          return 'import' in document.createElement('link');
+      }
 
-      document.body.appendChild(content.cloneNode(true));
+      if (supportsImports()) {
+          // Good to go!
+      } else {
+          // Use other libraries/require systems to load files.
+      }
     </script>
     
     
