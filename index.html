@@ -34,7 +34,11 @@
         </p>
       </div>
     </footer> -->
-    
+    <script>
+      var link = document.querySelector('link[rel="import"]');
+      var content = link.import;
+      document.body.appendChild(content.cloneNode(true));
+    </script>
     
     
   </body>
