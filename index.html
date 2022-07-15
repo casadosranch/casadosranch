@@ -37,7 +37,9 @@
     <script>
       var link = document.querySelector('link[rel="import"]');
       var content = link.import;
-      content
+      var el = content.querySelector('.logofooter');
+
+      document.body.appendChild(el.cloneNode(true));
     </script>
     
     
