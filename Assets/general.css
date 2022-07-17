@@ -1,13 +1,10 @@
 body {
   margin: 0;
+  background-image: url("Assets/Images/facebook_1616962469505_6782032153695007223.jpg");
 }
 
 .title {
   /* color: red; */
-}
-
-body {
-  background-image: url("Assets/Images/facebook_1616962469505_6782032153695007223.jpg");
 }
 
 footer {
