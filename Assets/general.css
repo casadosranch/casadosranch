@@ -1,10 +1,10 @@
 body {
   margin: 0;
-  background-image: url("Assets/Images/familia.jpg");
 }
 
 .title {
   /* color: red; */
+  background-image: url("Assets/Images/familia.jpg");
 }
 
 footer {
