@@ -2,9 +2,12 @@ body {
   margin: 0;
 }
 
+.content {
+  background-image: url("pic-logo-fb.jpg");
+}
+
 .title {
   /* color: red; */
-  background-image: url("familia.jpg");
 }
 
 footer {
