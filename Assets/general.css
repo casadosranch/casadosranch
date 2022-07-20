@@ -20,12 +20,12 @@ body {
   font-size: 30px;
   color: white;
   text-shadow: 2px 2px 4px #000000;
-  padding: -50px;
+  margin-top: -50px;
 }
 
 .center {
   position: absolute;
-  margin: 0 auto;
+  left: 50%;
 }
 
 footer {
