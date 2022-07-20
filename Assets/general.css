@@ -4,7 +4,8 @@ body {
 
 .main-img {
   background-image: url("mono.png");
-  height: 500px;
+  height: 100%;
+  background-repeat: no-repeat;
 }
 
 .title {
