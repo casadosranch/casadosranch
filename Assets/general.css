@@ -3,11 +3,13 @@ body {
 }
 
 .first-block {
-  background-image: url("mono.png");
+  /* background-image: url("mono.png"); */
   /* height: 100%; */
-  background-repeat: no-repeat;
+  /* background-repeat: no-repeat; */
   justify-content: center;
-  width: 100%;
+}
+
+.cover {
   object-fit: cover;
 }
 
