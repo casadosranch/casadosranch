@@ -32,9 +32,10 @@ footer {
 .logofooter {
   position: absolute;
 }
-.footimg {
+.logo {
   width: 150px;
   height: 150px;
+  margin: 0 auto;
 }
 
 .familapic {
