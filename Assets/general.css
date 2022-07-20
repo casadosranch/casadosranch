@@ -6,7 +6,7 @@ body {
   /* background-image: url("mono.png"); */
   /* height: 100%; */
   /* background-repeat: no-repeat; */
-  text-align: center;
+  /* text-align: center; */
 }
 
 .cover {
@@ -20,6 +20,7 @@ body {
   font-size: 30px;
   color: white;
   text-shadow: 2px 2px 4px #000000;
+  padding: -50px;
 }
 
 .center {
