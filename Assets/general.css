@@ -8,6 +8,7 @@ body {
   background-repeat: no-repeat;
   justify-content: center;
   width: 100%;
+  object-fit: cover;
 }
 
 .title {
@@ -33,9 +34,8 @@ footer {
   position: absolute;
 }
 .logo {
-  width: 150px;
-  height: 150px;
-  margin: 0 auto;
+  width: 50px;
+  height: 50px;
 }
 
 .familapic {
