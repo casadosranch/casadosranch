@@ -2,7 +2,7 @@ body {
   margin: 0;
 }
 
-.content {
+.main-img {
   background-image: url("mono.png");
   height: 500px;
 }
