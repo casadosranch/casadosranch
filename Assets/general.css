@@ -4,6 +4,7 @@ body {
 
 .content {
   background-image: url("pic-logo-fb.jpg");
+  height: 500px;
 }
 
 .title {
