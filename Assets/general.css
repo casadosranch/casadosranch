@@ -73,6 +73,10 @@ footer {
   margin: 0 3%;
 }
 
+.w-70 {
+  width: 70%;
+}
+
 .fifth-block {
   text-align: center;
 }
