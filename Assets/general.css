@@ -64,11 +64,13 @@ footer {
 .third-block {
   background-color: rgb(221, 254, 188);
   text-align: center;
+  margin: 0 10%;
 }
 
 .items {
   width: 20%;
   display: inline-block;
+  text-align: left;
 }
 
 .landing-pic {
