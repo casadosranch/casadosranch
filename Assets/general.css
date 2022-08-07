@@ -76,6 +76,10 @@ footer {
   width: 70%;
 }
 
+.inl-bk {
+  display: inline-block;
+}
+
 .fifth-block {
   text-align: center;
 }
