@@ -63,7 +63,7 @@ footer {
 
 .items {
   width: 20%;
-  display: inline;
+  display: inline-block;
 }
 
 .landing-pic {
