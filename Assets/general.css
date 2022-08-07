@@ -63,10 +63,10 @@ footer {
 
 .items {
   width: 20%;
-  display: flex;
+  display: inline;
 }
 
-.landing-item {
+.landing-pic {
   width: 100%;
 }
 
