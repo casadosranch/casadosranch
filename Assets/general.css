@@ -61,6 +61,10 @@ footer {
   /* width: 100%; */
 }
 
+.third-block {
+  background-color: rgb(221, 254, 188);
+}
+
 .items {
   width: 20%;
   display: inline-block;
