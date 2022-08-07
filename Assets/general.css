@@ -63,9 +63,11 @@ footer {
 
 .items {
   width: 20%;
-  .landing-item {
-    width: 100%;
-  }
+  display: flex;
+}
+
+.landing-item {
+  width: 100%;
 }
 
 .width-100 {
