@@ -63,7 +63,7 @@ footer {
 
 .items {
   width: 20%;
-  img {
+  .landing-item {
     width: 100%;
   }
 }
