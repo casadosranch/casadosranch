@@ -63,6 +63,7 @@ footer {
 
 .third-block {
   text-align: center;
+  margin-bottom: 50px;
 }
 
 .items {
@@ -86,7 +87,12 @@ footer {
 
 .fifth-block {
   text-align: center;
+  margin-bottom: 50px;
   padding: 30%;
+}
+
+.forth-block {
+  margin-bottom: 50px;
 }
 
 .landing-pic {
