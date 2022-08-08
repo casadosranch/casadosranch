@@ -73,12 +73,12 @@ footer {
   margin: 0 3%;
 }
 
-.w-60 {
-  width: 60%;
+.w-100 {
+  width: 100%;
 }
 
-.w-50 {
-  width: 50%;
+.w-30 {
+  width: 30%;
 }
 
 .inl-bk {
@@ -91,12 +91,14 @@ footer {
   padding: 10%;
 }
 
-.abs {
-  position: absolute;
+.prox-pasos {
+  font-size: 18px;
+  font-stretch: expanded;
 }
 
 .forth-block {
   margin-bottom: 50px;
+  background-color: bisque;
 }
 
 .landing-pic {
