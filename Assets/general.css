@@ -91,9 +91,13 @@ footer {
   padding: 10%;
 }
 
-.prox-pasos {
+.prox {
   font-size: 18px;
-  font-stretch: expanded;
+}
+
+.prox {
+  font-size: 18px;
+  padding-left: 100px;
 }
 
 .forth-block {
