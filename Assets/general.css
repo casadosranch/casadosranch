@@ -93,6 +93,7 @@ footer {
 
 .prox {
   font-size: 26px;
+  color: black important!;
 }
 
 /* .pasos {
@@ -102,8 +103,8 @@ footer {
 
 .pp {
   position: absolute;
-  margin-top: 6%;
-  margin-left: 17%;
+  margin-top: 7%;
+  margin-left: 25%;
 }
 
 /* .footprints {
@@ -112,7 +113,7 @@ footer {
 
 .forth-block {
   margin-bottom: 50px;
-  background-color: bisque;
+  background-color: rgba(0, 255, 22, .07);
 }
 
 .landing-pic {
