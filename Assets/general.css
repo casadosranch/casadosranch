@@ -91,6 +91,10 @@ footer {
   padding: 10%;
 }
 
+.abs {
+  position: absolute;
+}
+
 .forth-block {
   margin-bottom: 50px;
 }
