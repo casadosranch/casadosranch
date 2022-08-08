@@ -97,7 +97,11 @@ footer {
 
 .pasos {
   font-size: 18px;
-  padding-left: 100px;
+  padding-left: 250px;
+}
+
+.pp {
+  position: absolute;
 }
 
 .forth-block {
