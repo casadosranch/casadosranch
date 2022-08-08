@@ -92,23 +92,23 @@ footer {
 }
 
 .prox {
-  font-size: 22px;
+  font-size: 26px;
 }
 
-.pasos {
+/* .pasos {
   font-size: 18px;
   padding-left: 190px;
-}
+} */
 
 .pp {
   position: absolute;
-  margin-top: 5%;
+  margin-top: 6%;
   margin-left: 17%;
 }
 
-.footprints {
+/* .footprints {
   margin-left: 40%;
-}
+} */
 
 .forth-block {
   margin-bottom: 50px;
