@@ -1,7 +1,25 @@
 <!DOCTYPE html>
 <html>
-<body>
-<table >
+  <head>
+    <title>Casados Ranch</title>
+    <link rel="icon" type="image/x-icon" href="Assets/logoscroll200.png">
+    <link rel="stylesheet" href="Assets/general.css">
+  </head>
+
+  <body>
+    <!-- <div class="mainimg">
+      <img src="Assets/Images/facebook_1616962469505_6782032153695007223.jpg">
+    </div> -->
+    <h1>LO QUE HACEMOS: UN PROYECTO QUE COMBINA LA PROTECCIÓN DE LA BIODIVERSIDAD Y EL DESARROLLO DE UN ECOTURISMO LOCAL, SOSTENIBLE Y EDUCATIVO.</h1>
+
+    <p>Como propietarios y herederos de esta tierra, creemos que tenemos el derecho y el deber de preservar y proteger sus recursos, no solo porque nos pertenecen y serán transmitidos a nuestros hijos, sino sobre todo porque pertenecen a todos.
+      Esta iniciativa privada nace de la conciencia de nuestra responsabilidad. Sabemos que si no lo hacemos, nadie lo hará, y está dedicado al interés público y al bienestar de todos.
+      Nuestro proyecto propone varias formas de alcanzar nuestro objetivo: la promoción de una gestión más protectora y sostenible del ecosistema natural.
+      • La conservación a través de acciones de la vida
+      diaria que pueden convertirse en nuevos modelos sostenibles para otras comunidades vecinas, alentar otras alternativas locales y potenciar otras iniciativas locales.
+      • Protección y promoción a través del ecoturismo y la educación, utilizando el turismo en crecimiento de manera virtuosa para crear conciencia global y ofrecer a los visitantes nacionales e internacionales una experiencia pedagógica.</p>
+    
+    <table >
 <caption>Contenido nutricional por cada 100 g de alimento.</caption>
 <tr> <th>Alimento</th> <th>Calorías (kCal)</th> <th>Grasas (g)</th>
 <th>Proteína (g)</th> <th>Carbohidratos (g)</th>
@@ -19,5 +37,25 @@
 <td>0.8</td> <td>8.3</td>
 </tr>
 </table>
-</body>
+    
+    <footer>
+      <div>
+        <div class="logofooter">
+          <img class="logo" src="Assets/logoscroll200.png">
+        </div>
+        <p>
+          Lazaro Casados Diaz</br>
+          casadosranch@hotmail.com</br>
+          +52 9821042959</br>
+          Carretera 186 Escarcega-Chetumal, km 4.8</br>
+          Escarcega, Campeche,</br>
+          Mexico, </br>
+          C.P. 24350
+        </p>
+      </div>
+    </footer>
+
+    
+    
+  </body>
 </html>
