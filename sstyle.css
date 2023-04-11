@@ -9,7 +9,7 @@ EDIT ON
 body{
   height: 100%; 
   font-family: 'Noto Sans', sans-serif;
-  background-color: #ab4493; 
+  background-color: #8F5C5C; 
 }
 
 
@@ -32,7 +32,7 @@ input{
   border-radius: 5px;  
   border-style: solid; 
   border-width: 1px; 
-  border-color: #ab4493; 
+  border-color: #8F5C5C; 
   margin-top: 10px;  
   padding-left: 10px;
   margin-bottom: 20px; 
@@ -46,7 +46,7 @@ textarea{
   border-radius: 5px;  
   border-style: solid; 
   border-width: 1px; 
-  border-color: #ab4493; 
+  border-color: #8F5C5C; 
   margin-top: 10px;  
   padding-left: 10px;
   margin-bottom: 20px; 
@@ -67,8 +67,8 @@ button{
   margin-bottom: 20px; 
   margin-top: 10px;   
   text-transform: uppercase;
-  background-color: #ab4493; 
-  border-color: #ab4493; 
+  background-color: #8F5C5C; 
+  border-color: #8F5C5C; 
   border-style: solid; 
   border-radius: 10px;  
   width: 420px;   
@@ -82,7 +82,7 @@ button p{
 
 
 span{
-  color: #ab4493; 
+  color: #8F5C5C; 
 }
 
 
@@ -96,7 +96,7 @@ h1{
   font-size: 39px;  
   text-align: letf; 
   padding-bottom: 20px; 
-  color: #ab4493;
+  color: #8F5C5C;
 }
 
 
