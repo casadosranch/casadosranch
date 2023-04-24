@@ -5,5 +5,27 @@ h1{
 }
 
 div.galeria{
-  margin_ 10px 20px;
-  box-shadow: 0 4px 8px 0 lightskyblue, 0 6px 20px 0 rgba(0,0,0,0.19
+  margin: 10px 20px;
+  box-shadow: 0 4px 8px 0 lightskyblue, 0 6px 20px 0 rgba(0,0,0,0.19);
+  float: left;
+  width: 350px;
+}
+    
+    div.galeria img{
+      width: 100%;
+      height: auto;
+    }
+       
+    div.galeria:hover{
+      border: 1px solid lightcoral;
+      transform: rotate(-3deg);
+}
+
+div.pie{
+  text-aligm: center;
+  test-shadown: 2px 2px 5px purple;
+  padding: 10px
+}
+
+      
+          
