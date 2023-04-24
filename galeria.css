@@ -20,6 +20,7 @@ div.galeria{
        
     div.galeria:hover{
       border: 1px solid lightcoral;
+      transform: rotate(-3deg);
       
 }
 
