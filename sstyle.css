@@ -134,6 +134,11 @@ p{
   border: 1px solid #97d848;
 }
 
+
+<a id="logo-header" href="#">
+		</a> <!-- / #logo-header -->
+
+
 nav {
 	float: right;
 }
