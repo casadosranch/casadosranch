@@ -5,6 +5,16 @@
   font-family: sans-serif;
 }
 
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background: rgb (9, 74, 136);
+}
+
+
 .card{
   position: relative;
   widht: 300px;
