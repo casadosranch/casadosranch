@@ -5,6 +5,8 @@ EDIT ON
 /* Importación de fuentes de google fonts */ 
 @import url(https://fonts.googleapis.com/css?family=Noto+Sans);
 
+
+/* encabezado cafe
 #main-header {
 	background: #333;
 	color: white;
@@ -12,11 +14,11 @@ EDIT ON
 }	
 	#main-header a {
 		color: white;
-	}
-
-/*
- * Logo
+	} 
  */
+
+
+
 #logo-header {
 	float: left;
 	padding: 15px 0 0 20px;
