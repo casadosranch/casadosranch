@@ -22,13 +22,13 @@ body {
 }
 
 .first-block {
-   background-image: url("Assets/mono.png"); 
+  /*  background-image: url("Assets/mono.png"); 
    height: 100%; 
    background-repeat: no-repeat; 
    text-align: left; 
 }
-
-
+*/
+/*
 #logo-header {
 	float: left;
 	padding: 15px 0 0 20px;
@@ -51,7 +51,16 @@ body {
 		color: #999;
 	}
 	
-
+*/
+	/* cabecera */
+	
+	.headr {
+  background-color: black;
+  height: 105px;
+  text-align: center;
+}
+	
+	
 /*
  * Navegación
  */
