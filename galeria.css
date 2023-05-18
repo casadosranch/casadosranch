@@ -2,70 +2,35 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: sans-serif;
+  
 }
 
 
 body {
+  background: linear-gradient (to right, #2c5364, # 0f2027);
+  height: 100vh;
   display: flex;
-  align-items: center;
+  aling-items: center;
   justify-content: center;
-  min-height: 100vh;
-  background: rgb (9, 74, 136);
-}
-
-
-.card{
-  position: relative;
-  widht: 300px;
-  height: 350px;
-}
-
-.card .face{
-  position: absolute;
-  widht: 100%;
-  height: 100%;
-  backface-visibility: hidden;
-  border-radius 10px;
   overflow: hidden;
-  transition: .5s;
 }
 
-.card .front{
-  transform: perspective (600px) rotatey (180deg);
-  box-shadow: 0 5px 10px #000;
+.slider {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  transform-style: preserve-3d;
+  animation: rotate 30s linear infinite;
 }
 
-.card .front img{
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
-
-.card .front h3{
-  position: absolute;
-  bottom:0;
-  width: 100%;
-  height: 45px;
-  line-height: 45px;
-  color: #fff;
-  background: rgb (0,0,0,.4);
-  text-align: center;
-  
-  .card .back{
-      transform: perspective (600px) rotateY (0g);
-  background: rgb (3,35,54);
-      padding: 15px;
-    color: #f3f3f3;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+@keyframes rotate {
+  0% { 
+    tranform: perspective (1000px) rotateY (0deg);
   }
-
-
-
-
-
-    
+  100%{
+    tranform: perspective (1000px) rotateY (360deg);
+  }
+            
+}
   
+.slider
