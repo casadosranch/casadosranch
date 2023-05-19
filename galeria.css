@@ -23,7 +23,7 @@ body {
   animation: rotate 30s linear infinite;
 }
 
-@keyframesrotate {
+@keyframes rotate {
   0% { 
     tranform: perspective (1000px) rotateY (0deg);
   }
