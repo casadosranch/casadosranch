@@ -77,11 +77,11 @@ body {
 		background-position: center;
 		width: 50%;
 		height: 100vh;
-					}
 		
-					#pantalla-dividida {
-						display: flex;
-					}
+	}		
+	#pantalla-dividida {
+	display: flex;
+	}
 		
 					
 					
