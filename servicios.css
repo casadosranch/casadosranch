@@ -66,13 +66,13 @@ body {
 }
 					
 .izquierda {
-	background: #0b76a6;
+	background: #FCD21D;
 	height: 100vh;
 	width: 50%
 	}
 					
 	.derecha {
-		background: url ("voluntariado/v12.jpeg");
+		background-image: url ("voluntariado/v13.jpeg");
 		background-size: cover;
 		background-position: center;
 		width: 50%;
