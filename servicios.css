@@ -60,6 +60,31 @@ nav {
 			
 				nav ul li a:hover {
 					background: #0b76a6;
-
+body {
+	margin: 0;
+	padding: 9;
+}
+					
+.izquierda {
+	background: #0b76a6;
+	height: 100vh;
+	width: 50%
+	}
+					
+	.derecha {
+		background: #04EDC2;
+		background-size: cover;
+		background-position: center;
+		width: 50%;
+		height: 100vh;
+					}
+		
+					#pantalla-dividida {
+						display: flex;
+					}
+		
+					
+					
+					
 					
 					
